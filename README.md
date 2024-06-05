@@ -13,7 +13,7 @@ The FIFA World Cup is a highly anticipated international soccer tournament held 
 ## Goals of this project:
 1.) Was there a soecific referee that had the away team advantage?
 
-2.) Which are the top 5 countries who have won the greatest number od FIFA World Cups? Create visuals for the findings.
+2.) Which are the top 5 countries who have won the greatest number of FIFA World Cups? Create visuals for the findings.
 
 3.) How many goals were scored each season? What percentage of total goals were scored by the winning team in each season? Create visuals for the findings.
 

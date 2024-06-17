@@ -11,14 +11,14 @@ The FIFA World Cup is a highly anticipated international soccer tournament held 
 •	WorldCup – season statistics 
 
 ## Goals of this project:
-1.) Was there a specific referee that had the away team advantage?
+1.) Which are the top 5 countries who have won the greatest number of FIFA World Cups? Create visuals for the findings.
 
-2.) Which are the top 5 countries who have won the greatest number of FIFA World Cups? Create visuals for the findings.
+2.) How many goals were scored each season? What percentage of total goals were scored by the winning team in each season? Create visuals for the findings.
 
-3.) How many goals were scored each season? What percentage of total goals were scored by the winning team in each season? Create visuals for the findings.
+3.) How many cards (Red/Yellow) were issued in each season? Which team was issued the highest number of cards in a season?
 
-4.) How many cards (Red/Yellow) were issued in each season? Which team was issued the highest number of cards in a season?
+3b.) Does the number of cards issues affect if a team will win or lose?
 
-4b.) Is there a correlation between the number of yellow cards issued to a team in a match with the number of goals scored by the team in that match?
+4.) How many penalties were taken in each season? What percentage of penalties were successful versus unsuccessful?
 
-5.)	How many penalties were taken in each season? What percentage of penalties were successful versus unsuccessful?
+5.)	Was there a specific referee that had the home team advantage?

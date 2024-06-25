@@ -28,6 +28,3 @@ Datasets were downloaded from the data source and imported as dataframes from th
 4.) How many penalties were taken in each season? What percentage of penalties were successful versus unsuccessful?
 
 5.)	Was there a specific referee that had the home team advantage?
-
-## Data Source:
-(https://github.com/owaisgani1/fifaworldcup_data_analysis/tree/main)

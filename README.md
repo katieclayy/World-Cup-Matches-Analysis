@@ -13,8 +13,12 @@ The FIFA World Cup is a highly anticipated international soccer tournament held 
 
 •	WorldCup – season statistics 
 
-## Importing, Combining, & Transforming
-The datasets were downloaded from the data source and imported as dataframes from their respective CSV files in the Python environment. The read_csv function from the Pandas library was used to import these datasets. Additionally, basic data quality checks were performed.
+## Technologies
+• Python
+
+• PowerBI
+
+• Canva
 
 ## Goals of this project:
 1.) Which are the top 5 countries who have won the greatest number of FIFA World Cups? Create visuals for the findings.
